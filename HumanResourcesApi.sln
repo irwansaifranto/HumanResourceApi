@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanResourcesApi", "HumanResourcesApi\HumanResourcesApi.csproj", "{673FBEC1-3EC3-45A2-90FE-6FB279A9FE26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{673FBEC1-3EC3-45A2-90FE-6FB279A9FE26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{673FBEC1-3EC3-45A2-90FE-6FB279A9FE26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{673FBEC1-3EC3-45A2-90FE-6FB279A9FE26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{673FBEC1-3EC3-45A2-90FE-6FB279A9FE26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10B09BA2-86ED-4E69-983F-44F8869E8873}
+	EndGlobalSection
+EndGlobal

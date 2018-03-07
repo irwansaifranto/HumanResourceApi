@@ -1,0 +1,11 @@
+C:\Users\irwan cakep\source\repos\HumanResourcesApi\HumanResourcesApi\bin\Debug\netcoreapp2.0\HumanResourcesApi.deps.json
+C:\Users\irwan cakep\source\repos\HumanResourcesApi\HumanResourcesApi\bin\Debug\netcoreapp2.0\HumanResourcesApi.runtimeconfig.json
+C:\Users\irwan cakep\source\repos\HumanResourcesApi\HumanResourcesApi\bin\Debug\netcoreapp2.0\HumanResourcesApi.runtimeconfig.dev.json
+C:\Users\irwan cakep\source\repos\HumanResourcesApi\HumanResourcesApi\bin\Debug\netcoreapp2.0\HumanResourcesApi.dll
+C:\Users\irwan cakep\source\repos\HumanResourcesApi\HumanResourcesApi\bin\Debug\netcoreapp2.0\HumanResourcesApi.pdb
+C:\Users\irwan cakep\source\repos\HumanResourcesApi\HumanResourcesApi\obj\Debug\netcoreapp2.0\HumanResourcesApi.csprojResolveAssemblyReference.cache
+C:\Users\irwan cakep\source\repos\HumanResourcesApi\HumanResourcesApi\obj\Debug\netcoreapp2.0\HumanResourcesApi.csproj.CoreCompileInputs.cache
+C:\Users\irwan cakep\source\repos\HumanResourcesApi\HumanResourcesApi\obj\Debug\netcoreapp2.0\HumanResourcesApi.AssemblyInfoInputs.cache
+C:\Users\irwan cakep\source\repos\HumanResourcesApi\HumanResourcesApi\obj\Debug\netcoreapp2.0\HumanResourcesApi.AssemblyInfo.cs
+C:\Users\irwan cakep\source\repos\HumanResourcesApi\HumanResourcesApi\obj\Debug\netcoreapp2.0\HumanResourcesApi.dll
+C:\Users\irwan cakep\source\repos\HumanResourcesApi\HumanResourcesApi\obj\Debug\netcoreapp2.0\HumanResourcesApi.pdb
