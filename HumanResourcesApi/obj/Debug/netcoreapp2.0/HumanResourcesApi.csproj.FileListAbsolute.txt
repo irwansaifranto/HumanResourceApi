@@ -9,3 +9,14 @@ C:\Users\irwan cakep\source\repos\HumanResourcesApi\HumanResourcesApi\obj\Debug\
 C:\Users\irwan cakep\source\repos\HumanResourcesApi\HumanResourcesApi\obj\Debug\netcoreapp2.0\HumanResourcesApi.AssemblyInfo.cs
 C:\Users\irwan cakep\source\repos\HumanResourcesApi\HumanResourcesApi\obj\Debug\netcoreapp2.0\HumanResourcesApi.dll
 C:\Users\irwan cakep\source\repos\HumanResourcesApi\HumanResourcesApi\obj\Debug\netcoreapp2.0\HumanResourcesApi.pdb
+A:\KERJA\GITHUB\HumanResourceApi\HumanResourcesApi\bin\Debug\netcoreapp2.0\HumanResourcesApi.deps.json
+A:\KERJA\GITHUB\HumanResourceApi\HumanResourcesApi\bin\Debug\netcoreapp2.0\HumanResourcesApi.runtimeconfig.json
+A:\KERJA\GITHUB\HumanResourceApi\HumanResourcesApi\bin\Debug\netcoreapp2.0\HumanResourcesApi.runtimeconfig.dev.json
+A:\KERJA\GITHUB\HumanResourceApi\HumanResourcesApi\bin\Debug\netcoreapp2.0\HumanResourcesApi.dll
+A:\KERJA\GITHUB\HumanResourceApi\HumanResourcesApi\bin\Debug\netcoreapp2.0\HumanResourcesApi.pdb
+A:\KERJA\GITHUB\HumanResourceApi\HumanResourcesApi\obj\Debug\netcoreapp2.0\HumanResourcesApi.csprojResolveAssemblyReference.cache
+A:\KERJA\GITHUB\HumanResourceApi\HumanResourcesApi\obj\Debug\netcoreapp2.0\HumanResourcesApi.csproj.CoreCompileInputs.cache
+A:\KERJA\GITHUB\HumanResourceApi\HumanResourcesApi\obj\Debug\netcoreapp2.0\HumanResourcesApi.AssemblyInfoInputs.cache
+A:\KERJA\GITHUB\HumanResourceApi\HumanResourcesApi\obj\Debug\netcoreapp2.0\HumanResourcesApi.AssemblyInfo.cs
+A:\KERJA\GITHUB\HumanResourceApi\HumanResourcesApi\obj\Debug\netcoreapp2.0\HumanResourcesApi.dll
+A:\KERJA\GITHUB\HumanResourceApi\HumanResourcesApi\obj\Debug\netcoreapp2.0\HumanResourcesApi.pdb

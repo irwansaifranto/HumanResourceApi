@@ -2,8 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using HumanResourcesApi.Business.Abstract;
+using HumanResourcesApi.Business.Concrete;
+using HumanResourcesApi.Business.Entities;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
@@ -24,6 +28,16 @@ namespace HumanResourcesApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            RegisterDependencyInjection(services);
+
+            var connection = @"Server=.;Database=HumanResources;Trusted_Connection=True;ConnectRetryCount=0";
+            services.AddDbContext<HumanResourcesContext>(options => options.UseSqlServer(connection));
+        }
+
+        private void RegisterDependencyInjection(IServiceCollection services)
+        {
+            services.AddSingleton(Configuration);
+            services.AddScoped<IEmployeeRepository, EmployeeRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
